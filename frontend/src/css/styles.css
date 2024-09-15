@@ -1,0 +1,51 @@
+/* Global.css */
+
+/* Container styles */
+.page-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styles */
+  .page-heading {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Button styles */
+  .page-button {
+    margin-right: 10px;
+  }
+  
+  /* Section heading styles */
+  .section-heading {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  /* Table styles */
+  .page-table {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Pagination styles */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination .MuiPaginationItem-page.Mui-selected {
+    background-color: #1976d2;
+    color: #fff;
+  }
+  
+  .pagination .MuiPaginationItem-page:hover {
+    background-color: #1565c0;
+  }
+  
